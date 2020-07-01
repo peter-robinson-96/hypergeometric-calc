@@ -1,6 +1,6 @@
 # Hypergemetric calculator
 
-I wanted to build a free tool for making complex calculations in the context of game design, where the probability of drawing certain combinations of things over a game has an impact on balance. This balance is easier to manipulate and design if a designer can calculate these probabilities. 
+I wanted to build a free tool for making complex calculations in the context of game design, where the probability of drawing certain combinations of things over a game has an impact on balance, and how the game feels to play. This balance and game-feel are easier to manipulate and design if a designer can calculate these probabilities. 
 
 My goal is to have something very simple to use which does not require an understanding of the calculations involved, only an ability to identify what you want to know.
 
